@@ -28,8 +28,8 @@ Pré-requisitos: Android Studio 4.x ou superior
 # abrir URL com Browser
 https://nftreta-2-doug.netlify.app/
 # acessar menu opções do navegador
-# clicar em adicionar a tela principal
-# escolher a opção adicionar aplicativo
+# clicar em Instalar Aplicativo
+# escolher adicionar aplicativo automaticamente
 ```
 ## Local
 ```bash
